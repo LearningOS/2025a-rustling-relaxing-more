@@ -7,6 +7,6 @@
 
 
 fn main() {
-    let x = 6;
+    let x = 5;
     println!("x has the value {}", x);
 }
